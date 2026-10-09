@@ -1,0 +1,10 @@
+/* ID */
+#banner_smart_hd {
+    display: none;
+}
+
+#banner_smart_movel {
+    display: block;
+    max-width: 650px;
+    width: 100%;
+}

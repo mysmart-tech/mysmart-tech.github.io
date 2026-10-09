@@ -22,6 +22,10 @@ a {
     display: block;
 }
 
+#banner_smart_movel {
+    display: none;
+}
+
 /* Camada/Div que embrulha todo conteúdo do website */
 #container {
     max-width: 1920px;

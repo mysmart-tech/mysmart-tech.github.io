@@ -46,6 +46,7 @@ a {
     color: white;
     max-width: 1920px;
     width: 100%;
+    font-size: 13px;
 }
 
 #menu_navegar {
@@ -61,7 +62,7 @@ a {
 
 #menu_navegar li a {
     border-right: 1px solid black;
-    padding: 2px 10px;
+    padding: 1px 10px 10px;
     margin-right: -10px;
     transition: all 600ms ease-in-out;
 }
